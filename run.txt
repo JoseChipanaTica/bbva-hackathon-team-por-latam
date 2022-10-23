@@ -1,0 +1,5 @@
+source bbva-env/bin/activate
+
+cd api
+
+python3 -m uvicorn main:app
