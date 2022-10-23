@@ -3,6 +3,11 @@
 Proyecto creado por el equipo "Por Latam".
 Para el Hackathon BBVA 2022
 
+## Proyecto WEB
+* El proyecto web fue desarrollado el React y se subió a Amplify AWS.
+* Para poder acceder al sistema deberá ingresar con las claves usuario 'admin' y password 'admin'
+
+
 ## Procesamiento para desplegar el proyecto
 * Es necesario crear un Máquina Virtual EC2 en AWS
 * Recomendamos crear un entorno virtual: 'python3 -m venv bbva-env'
@@ -22,3 +27,7 @@ Para el Hackathon BBVA 2022
 
 ### Archivo bbva-hackathon.ipynb
 * Es el notebook donde se procesó las imágenes y se implementó el modelo.
+
+### Model Identifación discapacidad.ipynb
+* Se analizaron las variables, se desarrolló un EDA
+* Se construyó un Modelo de Kmens para clusterizar a los clientes.
