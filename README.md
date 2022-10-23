@@ -32,4 +32,4 @@ Para el Hackathon BBVA 2022
 * Se analizaron las variables, se desarrolló un EDA
 * Se construyó un Modelo de Kmens para clusterizar a los clientes.
 
-![alt text](https://drive.google.com/file/d/14LrE9uHJqtOcwfntRaNDZfbdKjG_Yptv/view)
+![alt text](https://71f5dd87-471e-4cda-bbd4-ff35f66518ff.s3.amazonaws.com/logo-ultimo.png)
