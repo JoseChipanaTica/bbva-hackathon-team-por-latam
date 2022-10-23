@@ -11,12 +11,12 @@
 
 
 ### Archivo Main.py
-#### En este archivo se encuentra el microservicio basado en FastApi
+* En este archivo se encuentra el microservicio basado en FastApi
 
 ### Archivo model_classification
-#### Es el modelo de clasificación de clientes. 
-#### El modelo es un SVM con 4097 variables de entrada
+* Es el modelo de clasificación de clientes. 
+* El modelo es un SVM con 4097 variables de entrada
 
 
 ### Archivo bbva-hackathon.ipynb
-#### Es el notebook donde se procesó las imágenes y se implementó el modelo.
+* Es el notebook donde se procesó las imágenes y se implementó el modelo.
