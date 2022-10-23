@@ -1,5 +1,7 @@
-# bbva-hackathon-team-por-latam
+# Autentícate con Autenticar(nos)
 
+Proyecto creado por el equipo "Por Latam".
+Para el Hackathon BBVA 2022
 
 ## Procesamiento para desplegar el proyecto
 * Es necesario crear un Máquina Virtual EC2 en AWS
