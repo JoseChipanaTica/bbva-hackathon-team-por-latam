@@ -1,3 +1,5 @@
+![alt text](https://71f5dd87-471e-4cda-bbd4-ff35f66518ff.s3.amazonaws.com/logo-ultimo.png)
+
 # Autentícate con Autenticar(nos)
 
 Proyecto creado por el equipo "Por Latam".
@@ -31,5 +33,3 @@ Para el Hackathon BBVA 2022
 ### Model Identifación discapacidad.ipynb
 * Se analizaron las variables, se desarrolló un EDA
 * Se construyó un Modelo de Kmens para clusterizar a los clientes.
-
-![alt text](https://71f5dd87-471e-4cda-bbd4-ff35f66518ff.s3.amazonaws.com/logo-ultimo.png)
