@@ -33,3 +33,16 @@ Para el Hackathon BBVA 2022
 ### Model Identifación discapacidad.ipynb
 * Se analizaron las variables, se desarrolló un EDA
 * Se construyó un Modelo de Kmens para clusterizar a los clientes.
+
+
+### AWS CONSOLE 
+
+![img](https://71f5dd87-471e-4cda-bbd4-ff35f66518ff.s3.amazonaws.com/Captura+de+Pantalla+2022-10-23+a+la(s)+17.54.03.png)
+
+### AWS CONSOLE
+
+![img](https://71f5dd87-471e-4cda-bbd4-ff35f66518ff.s3.amazonaws.com/Captura+de+Pantalla+2022-10-23+a+la(s)+17.54.21.png)
+
+### AWS CONSOLE
+
+![img](https://71f5dd87-471e-4cda-bbd4-ff35f66518ff.s3.amazonaws.com/Captura+de+Pantalla+2022-10-23+a+la(s)+17.54.29.png)
